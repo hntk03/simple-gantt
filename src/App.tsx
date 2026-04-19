@@ -119,6 +119,7 @@ function App() {
       <section id="spacer"></section>
       <footer>
         <div className="flex justify-center border-t border-neutral-300 pb-3 pt-8">
+        <div className="flex justify-center border-t border-neutral-300 pt-2 pb-2">
           © {new Date().getFullYear()} simplegantt.hntk03.com
         </div>
       </footer>
