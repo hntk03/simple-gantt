@@ -9,6 +9,9 @@ function App() {
 
   return (
     <>
+      <header className="pt-2 border-b pb-2">
+        <a href="/">SimpleGantt</a>
+      </header>
       <section id="center">
         <div className="hero">
           <img src={heroImg} className="base" width="170" height="179" alt="" />
